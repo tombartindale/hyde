@@ -25,9 +25,10 @@ version:          2.1.0
 github:
   repo:           https://github.com/poole/hyde
 
-metadata:
-  _posts:
-    - language: "Langauge"
-      field:
-        element: "text"
-        label: "title"
+prose:
+  metadata:
+    _posts:
+      - language: "Langauge"
+        field:
+          element: "text"
+          label: "title"
