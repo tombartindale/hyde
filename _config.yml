@@ -31,3 +31,8 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+    metadata:
+      _posts:
+        field:
+          element: "hidden"
+          value: "blog"
