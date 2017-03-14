@@ -26,12 +26,6 @@ github:
   repo:           https://github.com/poole/hyde
 
 prose:
-  metadata:
-    _posts:
-      - language: "Langauge"
-        field:
-          element: "text"
-          label: "title"
   ignore:
     - index.md
     - _config.yml
