@@ -32,3 +32,8 @@ prose:
         field:
           element: "text"
           label: "title"
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
